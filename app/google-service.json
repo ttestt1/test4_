@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "85877501115",
+    "project_id": "taobao-managercom"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85877501115:android:22c71c2280daffd6",
+        "android_client_info": {
+          "package_name": "ru.jaguardesign.test4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85877501115-1032gscopsk9rcoqft7hti0rhffthf8b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "85877501115-97i27lmg4o1kacm89bsqfqss01p6ncld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.jaguardesign.test4",
+            "certificate_hash": "5aac16c540d80276b73fe6ad1fe93cd5d9fc212f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRh1kMBGrMGqnn87uazKMx8DUmN-CKFYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
